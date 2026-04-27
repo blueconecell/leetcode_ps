@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/blueconecell/leetcode_ps/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/blueconecell/leetcode_ps/tree/master/0011-container-with-most-water) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/blueconecell/leetcode_ps/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/blueconecell/leetcode_ps/tree/master/0133-clone-graph) |
 ## Depth-First Search
 |  |
