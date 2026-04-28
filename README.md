@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/blueconecell/leetcode_ps/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/blueconecell/leetcode_ps/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/blueconecell/leetcode_ps/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/blueconecell/leetcode_ps/tree/master/0133-clone-graph) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/blueconecell/leetcode_ps/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
